@@ -1,5 +1,7 @@
 import org.openqa.selenium.WebDriver;
 
+import java.util.concurrent.TimeUnit;
+
 public class DriverSingleton {
 
     private static String CHROME_DRIVER = "webdriver.chrome.driver";
@@ -13,6 +15,8 @@ public class DriverSingleton {
         if (driver == null)
         {
             System.setProperty(CHROME_DRIVER, CHROME_PATH);
+            driver.manage().timeouts().pageLoadTimeout(PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS);
+            driver.manage().timeouts().implicitlyWait(DEFAULT_IMPLICITLY, TimeUnit.SECONDS);
             driver.manage().window().maximize();
         }
 
