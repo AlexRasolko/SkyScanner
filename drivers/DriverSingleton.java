@@ -9,7 +9,7 @@ public class DriverSingleton {
     private static int PAGE_LOAD_TIMEOUT = 60;
     private static int DEFAULT_IMPLICITLY = 10;
 
-    private static WebDriver driver;
+    public static WebDriver driver;
 
     public static WebDriver getDriver() {
         if (driver == null)
