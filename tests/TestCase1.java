@@ -6,5 +6,4 @@ public class TestCase1 {
         DriverSingleton.driver.navigate().to("https://www.skyscanner.com");
     }
 
-
 }
