@@ -3,6 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="a5f469af-f95c-4265-85e5-48d24db70bb6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/methods/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver_win32/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/CHANGELOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/client-combined-3.12.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/client-combined-3.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/libs/byte-buddy-1.8.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/libs/commons-codec-1.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/libs/commons-exec-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/libs/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/libs/gson-2.8.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/libs/guava-23.6-jre.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/libs/httpclient-4.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/libs/httpcore-4.4.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/libs/okhttp-3.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/selenium-java-3.12.0/libs/okio-1.13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DriverSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestCase1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCase1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,33 +37,37 @@
     <session id="43846870">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="CommonMethods" value="2" />
-          <entry key="java" value="105" />
+          <entry key="java" value="574" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="105" />
+          <entry key="JAVA" value="574" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CommonMethods" value="2" />
-          <entry key="java" value="1" />
+          <entry key="class" value="1" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="1" />
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -50,28 +75,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/drivers/DriverSingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/TestCase1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="40">
+              <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/Locators.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="53" lean-forward="true" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -79,8 +95,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/methods/CommonMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="300">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,10 +121,11 @@
       <list>
         <option value="$PROJECT_DIR$/drivers/dr" />
         <option value="$PROJECT_DIR$/drivers/NewDriver.java" />
-        <option value="$PROJECT_DIR$/tests/TestCase1.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/drivers/DriverSingleton.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/methods/CommonMethods.java" />
+        <option value="$PROJECT_DIR$/tests/TestCase1.java" />
+        <option value="$PROJECT_DIR$/tests/Locators.java" />
       </list>
     </option>
   </component>
@@ -126,8 +146,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
+    <option name="x" value="1934" />
+    <option name="y" value="-13" />
     <option name="width" value="1936" />
     <option name="height" value="1176" />
   </component>
@@ -149,7 +169,7 @@
             <path>
               <item name="SkyScanner" type="b2602c69:ProjectViewProjectNode" />
               <item name="SkyScanner" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
+              <item name="methods" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SkyScanner" type="b2602c69:ProjectViewProjectNode" />
@@ -184,7 +204,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="file.status.colors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,9 +218,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestCase1.OpenSite">
+  <component name="RunManager" selected="JUnit.All in SkyScanner">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in SkyScanner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SkyScanner" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -283,6 +312,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCase1.Test1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SkyScanner" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase1" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -295,11 +337,15 @@
       <item itemvalue="TestNG.TestCase1" />
       <item itemvalue="Maven.TPE_tests [test]" />
       <item itemvalue="TestNG.TestCase1.OpenSite" />
+      <item itemvalue="TestNG.TestCase1.Test1" />
+      <item itemvalue="JUnit.All in SkyScanner" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestCase1.OpenSite" />
+        <item itemvalue="JUnit.All in SkyScanner" />
         <item itemvalue="TestNG.TestCase1" />
+        <item itemvalue="TestNG.TestCase1.Test1" />
+        <item itemvalue="TestNG.TestCase1.OpenSite" />
         <item itemvalue="Maven.TPE_tests [test]" />
       </list>
     </recent_temporary>
@@ -337,7 +383,31 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17217484" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.58489585" weight="0.32917467" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5026042" weight="0.3063148" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.41510418" side_tool="true" weight="0.25431862" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4984375" weight="0.32917467" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.25586355" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -359,7 +429,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.25586355" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -380,34 +450,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Methods/CommonMethods" />
+    <entry file="file://$PROJECT_DIR$/drivers/DriverSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="80">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Methods/CommonMethods">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/TestCase1.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="263">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.8/testng-6.8.8.jar!/org/testng/annotations/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/methods/CommonMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="300">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drivers/DriverSingleton.java">
+    <entry file="file://$PROJECT_DIR$/tests/Locators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        <state relative-caret-position="60">
+          <caret line="3" column="53" lean-forward="true" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestCase1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
         </state>
       </provider>
     </entry>
